@@ -30,8 +30,6 @@ int main()
                 printf("%d",i);
                 exit=1;
             }
-            
-            
         }
         if (exit==1)
         {
