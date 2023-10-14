@@ -10,7 +10,7 @@
 				"-g",
 				"${file}",
 				"-o",
-				"${fileDirname}\\${fileBasenameNoExtension}.exe"
+				"&{fileDirname}\\a.exe"
 			],
 			"options": {
 				"cwd": "C:/Program Files/mingw64/bin"
@@ -33,7 +33,7 @@
 				"-g",
 				"${file}",
 				"-o",
-				"${fileDirname}\\${fileBasenameNoExtension}.exe"
+				"${fileDirname}\\a.exe"
 			],
 			"options": {
 				"cwd": "C:/Program Files/mingw64/bin"
