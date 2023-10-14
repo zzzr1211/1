@@ -24,7 +24,5 @@ int main()
         printf("%d:%d\n",i,count[i]);
     }
     return 0;
-    
-    
-    
+  
 }
