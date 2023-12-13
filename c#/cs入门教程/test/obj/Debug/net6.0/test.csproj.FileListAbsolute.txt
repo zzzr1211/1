@@ -1,0 +1,14 @@
+D:\code\c#\cs入门教程\test\bin\Debug\net6.0\test.exe
+D:\code\c#\cs入门教程\test\bin\Debug\net6.0\test.deps.json
+D:\code\c#\cs入门教程\test\bin\Debug\net6.0\test.runtimeconfig.json
+D:\code\c#\cs入门教程\test\bin\Debug\net6.0\test.dll
+D:\code\c#\cs入门教程\test\bin\Debug\net6.0\test.pdb
+D:\code\c#\cs入门教程\test\obj\Debug\net6.0\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\c#\cs入门教程\test\obj\Debug\net6.0\test.AssemblyInfoInputs.cache
+D:\code\c#\cs入门教程\test\obj\Debug\net6.0\test.AssemblyInfo.cs
+D:\code\c#\cs入门教程\test\obj\Debug\net6.0\test.csproj.CoreCompileInputs.cache
+D:\code\c#\cs入门教程\test\obj\Debug\net6.0\test.dll
+D:\code\c#\cs入门教程\test\obj\Debug\net6.0\refint\test.dll
+D:\code\c#\cs入门教程\test\obj\Debug\net6.0\test.pdb
+D:\code\c#\cs入门教程\test\obj\Debug\net6.0\test.genruntimeconfig.cache
+D:\code\c#\cs入门教程\test\obj\Debug\net6.0\ref\test.dll

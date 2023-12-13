@@ -1,0 +1,14 @@
+D:\code\c#\cs入门教程\Lesson1\bin\Debug\net6.0\Lesson1.exe
+D:\code\c#\cs入门教程\Lesson1\bin\Debug\net6.0\Lesson1.deps.json
+D:\code\c#\cs入门教程\Lesson1\bin\Debug\net6.0\Lesson1.runtimeconfig.json
+D:\code\c#\cs入门教程\Lesson1\bin\Debug\net6.0\Lesson1.dll
+D:\code\c#\cs入门教程\Lesson1\bin\Debug\net6.0\Lesson1.pdb
+D:\code\c#\cs入门教程\Lesson1\obj\Debug\net6.0\Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\c#\cs入门教程\Lesson1\obj\Debug\net6.0\Lesson1.AssemblyInfoInputs.cache
+D:\code\c#\cs入门教程\Lesson1\obj\Debug\net6.0\Lesson1.AssemblyInfo.cs
+D:\code\c#\cs入门教程\Lesson1\obj\Debug\net6.0\Lesson1.csproj.CoreCompileInputs.cache
+D:\code\c#\cs入门教程\Lesson1\obj\Debug\net6.0\Lesson1.dll
+D:\code\c#\cs入门教程\Lesson1\obj\Debug\net6.0\refint\Lesson1.dll
+D:\code\c#\cs入门教程\Lesson1\obj\Debug\net6.0\Lesson1.pdb
+D:\code\c#\cs入门教程\Lesson1\obj\Debug\net6.0\Lesson1.genruntimeconfig.cache
+D:\code\c#\cs入门教程\Lesson1\obj\Debug\net6.0\ref\Lesson1.dll
